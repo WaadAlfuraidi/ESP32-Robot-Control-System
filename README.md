@@ -623,5 +623,5 @@ The ESP32 successfully connects to Wi-Fi and reaches the hosting server through 
 ## 👩‍💻 Author
 
 **Waad Alfuraidi**  
-Computer Science Student  
+Information Technology Student  
 Qassim University
